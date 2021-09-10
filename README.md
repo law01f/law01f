@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Peach @law01f
-- 👀 I’m interested in Offensive Security, Data Science, Aircraft Engineer
+- 👀 I’m interested in Offensive Security, Data Science, Aviation
 - 🌱 I’m currently learning Data Science Essential #botnoi
 - 📫 instagram: @_thankme
 
