@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Peach @law01f
-- 👀 I’m interested in Offensive Security, Data Science, Aviation
-- 🌱 I’m currently learning Data Science Essential #botnoi
-- 📫 instagram: @_thankme
+- 👋 Hi guys, I’m Peach @law01f
+- 👀 I’m interested in Offensive Security, Data, Aviation
+- 🌱 
+- 📫 Instagram @_thankme
 
 <!---
 law01f/law01f is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
