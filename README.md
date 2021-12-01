@@ -1,5 +1,5 @@
 - 👋 Hi guys, I’m Peach @law01f
-- 👀 I’m interested in Offensive Security, Data, Aviation
+- 👀 
 - 🌱 
 - 📫 Instagram @_thankme
 
